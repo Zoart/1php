@@ -1,0 +1,12 @@
+.navigation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  float: right;
+  background-color: #212529;
+  color: white;
+  width: 15%;
+  padding: 2.5%;
+  height: 100vh;
+  border-left: 5px solid rgb(9, 187, 231);
+}

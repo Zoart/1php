@@ -1,0 +1,2 @@
+AddDefaultCharset UTF-8
+RewriteRule ^нужныйТекст?$ файл, название которого нужно изменить [NC, L]
