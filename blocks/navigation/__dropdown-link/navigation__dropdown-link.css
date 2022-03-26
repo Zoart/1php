@@ -1,0 +1,14 @@
+.navigation__dropdown-link {
+    color: white;
+    display: block;
+    margin-top: 5px;
+    font-size: 20px;
+    transition: transform .45s ease;
+    text-decoration: none;
+    line-height: 1.10;
+  }
+  
+.navigation__link:hover {
+  color: rgb(9, 187, 231);
+  transform: scale(1.05);
+}

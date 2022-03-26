@@ -1,0 +1,19 @@
+.navigation__dropdown-button {
+  background-color: #212529;
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
+
+
+
+.active {
+  color: rgb(9, 187, 231);
+  transform: scale(1.05);
+}
