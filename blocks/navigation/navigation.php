@@ -1,18 +1,18 @@
 <aside class="navigation">
   <ul class="navigation__list">
     <li class="navigation__list-item">
-      <button class="navigation__dropdown-button">
-        <i class="fa fa-caret-down"></i>
+      <div class="navigation__dropdown-button">
         <a class="navigation__link  
       <?php if ($title == "Patterns") {
         echo "active";
-      } ?>" href="../../index.php">Patterns</a>
-      </button>
+      } ?>" href="../../index.php">
+      Patterns
+    </a>
+      </div>
       <?php
         if ($title == "Patterns"):
       ?>
-      <div class="navigation__dropdown-container">
-      
+      <div class="navigation__dropdown-container animation">
         <a class="navigation__dropdown-link" href="#">Link1</a>
         <a class="navigation__dropdown-link" href="#">Link2</a>
         <a class="navigation__dropdown-link" href="#">Link3</a>
