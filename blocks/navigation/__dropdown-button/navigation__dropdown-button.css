@@ -10,10 +10,3 @@
   cursor: pointer;
   outline: none;
 }
-
-
-
-.active {
-  color: rgb(9, 187, 231);
-  transform: scale(1.05);
-}

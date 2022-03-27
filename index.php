@@ -17,13 +17,13 @@
 </head>
 <body class="root">
   <!-- Navigation -->
-  <?php require "./blocks/navigation/navigation.php" ?>
+  <?php require "./views/navigation.php" ?>
   <main class="page">
     <!-- Header -->
-    <?php require "./blocks/header/header.php" ?>
+    <?php require "./views/header.php" ?>
 
     <!-- Patterns -->
-    <?php require "./blocks/patterns/patterns.php" ?>
+    <?php require "./views/patterns.php" ?>
   </main>
 
 
