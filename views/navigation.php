@@ -18,12 +18,6 @@
       } ?>" href="../../index.php">
         Patterns
       </a>
-      <a class="navigation__dropdown-link" href="#">
-        Link2
-      </a>
-      <a class="navigation__dropdown-link" href="#">
-        Link3
-      </a>
       <?php endif; ?>
     </li>
 
@@ -42,12 +36,6 @@
       } ?>" 
         href="../../page/objects_and_classes.php">
           Objects and classes
-        </a>
-        <a class="navigation__dropdown-link" href="#">
-          Link2
-        </a>
-        <a class="navigation__dropdown-link" href="#">
-          Link3
         </a>
         <?php endif; ?>
     </li>

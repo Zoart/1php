@@ -21,7 +21,8 @@
   <main class="page">
     <!-- Header -->
     <?php require "./views/header.php" ?>
-
+    <!-- Description -->
+    <?php require "./views/description.php" ?>
     <!-- Patterns -->
     <?php require "./views/patterns.php" ?>
   </main>

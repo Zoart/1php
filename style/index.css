@@ -7,6 +7,7 @@
 
 @import url(../blocks/patterns/patterns.css);
 @import url(../blocks/patterns/__block/patterns__block.css);
+@import url(../blocks/patterns/__img/patterns__img.css);
 
 @import url(../blocks/wrapper/wrapper.css);
 

@@ -1,0 +1,12 @@
+.patterns__img {
+  margin: 0;
+  padding: 0;
+  width: 75%;
+  height: 50%;
+  transition: transform .45s ease;
+  overflow: visible;
+}
+
+.patterns__img:hover {
+  transform: scale(1.10);
+}
